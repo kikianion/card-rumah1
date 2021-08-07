@@ -25,6 +25,8 @@ if (empty($_SERVER['HTTPS']) || $_SERVER['HTTPS'] === "off") {
 
         <!-- Latest compiled and minified JavaScript -->
         <link rel="stylesheet" href="lib/fontawesome-free-5.15.4-web/css/all.min.css" >
+        <link rel="icon" type="image/png" href="asset/img/fav.png" />
+
         <style>
             .btn1{
                 border-radius: 20px; background-color: #3b6978; color: white;
