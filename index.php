@@ -12,7 +12,7 @@ if (empty($_SERVER['HTTPS']) || $_SERVER['HTTPS'] === "off") {
     <head>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta charset="UTF-8" />
-        <title>Card - Nuha</title>
+        <title>Card - Nuha / Dzikri Ulinnuha AZ</title>
         <!--<link rel="stylesheet" href="style.css" />-->
         <!--<link rel="stylesheet" href="font-awesome.css" />-->
         <!--<link rel="stylesheet" href="assets/css/font-awesome.min.css" />-->
