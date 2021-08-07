@@ -20,9 +20,8 @@
             <a href="https://ryanloi.me/" target="_blank">Ryan Loi</a>.
         </div>
         <div id="links">
-            <a class="link"
-                href="geo:37.786971,-122.399677;u=35"
-                target="_blank">open map</a>
+            <a class="link" href="geo:37.786971,-122.399677;u=35" target="_blank">open map</a>
+            <a class="link" href="google.navigation:q=San+Francisco" target="_blank">Nav</a>
         </div>
 
         <!-- Javascript -->
