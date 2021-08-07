@@ -61,6 +61,7 @@ if (empty($_SERVER['HTTPS']) || $_SERVER['HTTPS'] === "off") {
                         </div>
                     </div>
                     <a class="btn btn-default btn-block btn-lg btn1" href="https://www.instagram.com/p/CSQ6qgmBVfq/?utm_source=ig_web_copy_link" target="_blank" style="">Foto Rumah</a>
+                    <a class="btn btn-default btn-block btn-lg btn1" href="geo:0,0?q=34.99,-106.61(Treasure)" target="_blank" style="">Foto Rumah</a>
 
                 </div>
 
