@@ -44,9 +44,9 @@ if (empty($_SERVER['HTTPS']) || $_SERVER['HTTPS'] === "off") {
             </div>
             <div class="row text-center" style="margin-bottom: 20px">
                 <div class="col-md-12">
-                    <h1 style="font-weight: bolder">Nuha / Dzikri Ulinnuha AZ</h1>
+                    <h2 style="font-weight: bolder">Nuha / Dzikri Ulinnuha AZ</h2>
                 </div>
-                <div id="description" style="font-size: 1.3em;">
+                <div id="description" style="font-size: 1.2em;">
                     Programmer, coder,computer system builder, tinggal di desa Sukolilo
                 </div>
             </div>
