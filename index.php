@@ -54,7 +54,7 @@ if (empty($_SERVER['HTTPS']) || $_SERVER['HTTPS'] === "off") {
                 <div class="col-md-12">
                     <div class="btn-group btn-group-justified" role="group" aria-label="...">
                         <div class="btn-group" role="group">
-                            <a class="btn btn-default btn-block btn-lg btn1" href="geo:0,0?q=-7.083852, 112.328941(Rumah Nuha);u=35" target="_blank" style="">Google Map</a>
+                            <a class="btn btn-default btn-block btn-lg btn1" href="geo:0,0?q=-7.083852, 112.328941(Rumah Nuha)&u=35" target="_blank" style="">Google Map</a>
                         </div>
                         <div class="btn-group" role="group">
                             <a class="btn btn-default btn-block btn-lg btn1" href="google.navigation:q=-7.083852, 112.328941" target="_blank" style="">Arah</a>
